@@ -1,6 +1,6 @@
 # Catppuccin CSS Palette
 
-Extending the official Catppuccin CSS palette and adding Espresso/Voidppuccin.
+Extending the official [Catppuccin CSS palette](https://github.com/catppuccin/palette/blob/main/css/catppuccin.css) and adding Espresso/Voidppuccin.
 
 ## Usage
 
