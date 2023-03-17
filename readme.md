@@ -21,7 +21,7 @@ Extending the official [Catppuccin CSS palette](https://github.com/catppuccin/pa
 
 ```css
 @import url('https://cdn.jsdelivr.net/gh/haiksgithub/catppuccin-palette-css@v0.1.7/catppuccin.css');
-@import url('https://cdn.jsdelivr.net/gh/haiksgithub/catppuccin-palette-css/catppuccin-latest.css');
+@import url('https://cdn.jsdelivr.net/gh/haiksgithub/catppuccin-palette-css@main/catppuccin-latest.css');
 ```
 
 ## License
